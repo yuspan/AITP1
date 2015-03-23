@@ -1,0 +1,9 @@
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\bin\HospitalApp.dll.config
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\bin\HospitalApp.dll
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\bin\HospitalApp.pdb
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\bin\HospitalApp.xml
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\obj\Debug\HospitalApp.Resources.resources
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\obj\Debug\HospitalApp.vbproj.GenerateResource.Cache
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\obj\Debug\HospitalApp.dll
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\obj\Debug\HospitalApp.xml
+C:\Users\Yuspan\Desktop\LOCAL\HospitalApp\HospitalApp\obj\Debug\HospitalApp.pdb
